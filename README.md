@@ -1,2 +1,0 @@
-# Kimimos
-Blog
